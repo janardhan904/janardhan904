@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Open Source and support Volunteer projects
 - 🤔 I’m looking for help with some volunteer projects
 - 💬 Ask me about Full stack development, Front-End Development, DevOps, Automation
-- 📫 How to reach me: https://twitter.com/JanardhanSWE
+- 📫 How to reach me: Twitter(https://twitter.com/JanardhanSWE)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: 
